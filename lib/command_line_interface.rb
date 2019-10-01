@@ -37,5 +37,5 @@ class CommandLineInterface
       puts "----------------------".colorize(:green)
     end
   end
-
+run
 end
