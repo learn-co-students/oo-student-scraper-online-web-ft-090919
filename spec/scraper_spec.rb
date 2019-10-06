@@ -1,4 +1,4 @@
-equire "spec_helper"
+require "spec_helper"
 
 describe "Scraper" do
 
